@@ -12,3 +12,7 @@ https://www.qt.io/download-open-source
 
 # Learn:
 home: https://resources.qt.io/learning-hub
+
+# Search:
+https://www.google.com/search?q=qt+creator
+https://www.google.com/search?q=qt+creator+license
